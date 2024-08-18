@@ -28,7 +28,10 @@ const config: Config = {
     defaultLocale: "es",
     locales: ["es"],
   },
-
+  markdown: {
+    mermaid: true,
+  },
+  themes: ["@docusaurus/theme-mermaid"],
   presets: [
     [
       "classic",
@@ -47,7 +50,6 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
       title: "Proyecto Grupo 7",

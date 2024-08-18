@@ -1,0 +1,8 @@
+{
+  "label": "👤 Historias de Usuario",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Historias de Usuario a resolver en este proyecto. Contienen los requerimientos a cumplir, el contexto y el objetivo."
+  }
+}
